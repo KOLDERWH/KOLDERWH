@@ -1,10 +1,8 @@
 # Hi 👋 Kolderwh here.
 
 - 👩‍💻 Software Engineering
-- 🐱 Non binary, or cat
 - 📝 Use Java backend, Vue.JS or React for frontend
 - 🌟 Make something to improve my life
-- 💕 Opensource
 
 ![skills](https://skillicons.dev/icons?i=bash,cs,css,git,github,html,js,linux,md,ps,pr,py,react,vue,vscode)
 
